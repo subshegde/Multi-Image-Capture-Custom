@@ -21,7 +21,7 @@ Features
 
     Clone the repository:
 
-git clone https://github.com/yourusername/multi-image-capture-demo.git
+https://github.com/subshegde/Multi-Image-Capture-Custom.git
 
 # Install dependencies:
 
